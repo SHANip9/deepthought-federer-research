@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-06-02T12:21:23.242Z",
+  "scope": {
+    "city_hub": "Pune operational hub: Chakan, Bhosari, Pimpri-Chinchwad, Sanaswadi, Pirangut and nearby Pune industrial belt",
+    "segments": [
+      "Industrial sensors & instrumentation",
+      "Precision auto components & engineering"
+    ]
+  },
+  "counts": {
+    "final_companies": 25,
+    "audit_rejections_or_deferrals": 22,
+    "band_a": 11,
+    "band_b": 14,
+    "band_c": 0
+  },
+  "cautions": [
+    "Private-company revenue ranges should be re-checked through MCA/Tofler/EMIS before outreach.",
+    "Minilec is retained as probable Federer because product and operations fit is strong, but revenue proof is weaker than the other 24.",
+    "Kinetic Engineering is retained because Pune is the decision hub, but the main manufacturing facility is outside Pune in Ahilyanagar."
+  ]
+}
