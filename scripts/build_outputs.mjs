@@ -721,7 +721,7 @@ summarySheet.getRange("A1:B12").values = [
   ["Caution 2", summary.cautions[1]],
   ["Caution 3", summary.cautions[2]],
   ["Scoring", "C3 20 + C4 15 + C5 15 + C6 15 + C7 20 + C8 15 = 100"],
-  ["Prepared for", "Souradeep Ghosh"],
+  ["Submitted by", "Souradeep Ghosh"],
 ];
 
 const output = await SpreadsheetFile.exportXlsx(workbook);

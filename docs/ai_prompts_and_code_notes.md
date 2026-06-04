@@ -1,6 +1,8 @@
-# AI Prompts and Code Notes
+# Research Prompts and Code Notes
 
-## Prompts Used
+This file documents the prompts and lightweight scripts I used to structure the research, recalculate scores and keep the dataset auditable.
+
+## Prompts Used During Research
 
 ### Prompt 1: Scope Selection
 
@@ -73,6 +75,6 @@ The script `scripts/score_validator.py` checks:
 - C7 is not zero
 - E1/E2 gates are not failed
 
-## Manual Research Choices
+## Research Judgment
 
-AI was used as a structuring and scoring assistant, not as a single source of truth. Each row uses source URLs from official websites, annual reports, market-data pages, rating notes or company databases. Weak evidence is explicitly flagged in the `caveats_next_verification` column rather than hidden.
+I treated AI output as a structuring aid, not as a source of truth. Each row uses source URLs from official websites, annual reports, market-data pages, rating notes or company databases. Weak evidence is explicitly flagged in the `caveats_next_verification` column rather than hidden.

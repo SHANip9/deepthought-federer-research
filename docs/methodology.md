@@ -1,6 +1,6 @@
 # Methodology: Pune Federer Company Research
 
-Prepared for: Souradeep Ghosh
+Submitted by: Souradeep Ghosh
 
 ## Scope Chosen
 
@@ -11,7 +11,7 @@ Segments:
 - Industrial sensors & instrumentation
 - Precision auto components & engineering
 
-Reason: Pune has a dense B2B manufacturing cluster with automotive OEM suppliers, machine-tool builders, instrumentation makers, metrology companies and automation equipment firms. This gives enough companies in the Rs 50Cr-500Cr revenue band while keeping the research operationally coherent.
+Reason for choosing this scope: Pune has a dense B2B manufacturing cluster with automotive OEM suppliers, machine-tool builders, instrumentation makers, metrology companies and automation equipment firms. This gave me enough companies in the Rs 50Cr-500Cr revenue band while keeping the research operationally coherent.
 
 ## Source Hierarchy
 
@@ -66,7 +66,7 @@ Because many private Indian manufacturing companies do not publish ERP/SAP usage
 
 ## Important Caveats
 
-This is a strong submission-ready working set, but before sending outreach I would verify three items:
+Before using this list for actual founder outreach, I would re-check three items:
 
 - Minilec: product fit is strong, but revenue proof is weaker than the other 24. Replace it if MCA/Tofler confirms it below Rs 50Cr.
 - Kinetic Engineering: Pune is a real decision hub, but its main manufacturing plant is in Ahilyanagar. Keep it only if DeepThought accepts Pune-hub logic.
