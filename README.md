@@ -24,4 +24,4 @@ I chose Pune because the Chakan, Bhosari, Pimpri-Chinchwad, Sanaswadi and Pirang
 
 ## Submission Note
 
-Part B requires a real hand-drawn diagram photo in the Internshala chat window. Do not send a digital diagram. Use the hand-drawn diagram instructions inside `docs/part_b_sourcing_strategy_and_1000_company_proposal.md`.
+Part B requires a real hand-drawn diagram photo in the Internshala chat window.`docs/part_b_sourcing_strategy_and_1000_company_proposal.md`.
